@@ -1,0 +1,16 @@
+In order to build the project: 
+
+1) Copy or Move the folder "Logica" (located in the folder "source code - project") into the Eclipse Workspace.
+
+2) Open Eclipse Luna.
+
+3) Go to File -> Import -> General -> Existing Projects into Workspace, and press "Next".
+
+4) Click on "Browse..." of the "Select root directory" option.
+
+5) Go to the Eclipse Workspace, then select the folder "Logica", and click "Finish".
+
+6) Now that the project is loaded into Eclipse Luna, run the java file "MyCompiler.java", 
+   located in Logica -> src -> (default package)\ 
+
+*Note that the program will execute the "input.txt" file located in the project's root directory (Logica\input.txt)
